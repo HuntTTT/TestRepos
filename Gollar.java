@@ -2,6 +2,6 @@ package TestRepos;
 
 public class Gollar {
     public static void main(String[] args) {
-        System.out.println("1");
+        System.out.println("Добавил вместо 1 Бла Бла");
     }
 }
